@@ -1,11 +1,18 @@
 {
   "logs": [
     {
-      "message": "Hi!",
+      "id": 1,
+      "message": "Hi! bro",
       "attention": true,
       "tech": "John Doe",
-      "date": "2020-02-10T14:23:50.885Z",
-      "id": 1
+      "date": "2020-02-10T19:26:32.048Z"
+    },
+    {
+      "message": "Fix some stuff!",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-02-10T19:13:00.461Z",
+      "id": 2
     }
   ],
   "techs": [
