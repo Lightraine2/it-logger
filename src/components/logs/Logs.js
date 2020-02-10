@@ -33,6 +33,7 @@ logs.map(log => <LogItem log={log} key={log.id}/>)
 
 Logs.propTypes = {
     log: PropTypes.object.isRequired,
+    getLogs: PropTypes.func.isRequired,
 }
 
 const mapStateToProps = state => ({
